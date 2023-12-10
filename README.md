@@ -14,3 +14,11 @@ Welche Bauteile braucht man zum Errichten eines Balkonkraftwerks?
 - Schutzkappe / Endkappe Wechselrichter
 - Kabelbinder
 - Schneidezange
+- Schrauben
+
+## Installation Solarmodule
+- Bauvlies
+- Bohrmaschine
+- Staubsauger
+- Unterlegbrett
+- Stift / Permanentmarker
