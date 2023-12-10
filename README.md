@@ -3,6 +3,9 @@ Solar Mini-Solaranlage PV Photovoltaik Balkonkraftwerk BKW
 
 Welche Bauteile braucht man zum Errichten eines Balkonkraftwerks?
 
+## Todo
+- Links für spezifische Produkte hinzufügen
+
 ## Bauteile Liste
 - PV-Module / Solarmodule
 - Wechselrichter
