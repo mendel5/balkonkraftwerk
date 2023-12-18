@@ -9,6 +9,8 @@ Welche Bauteile braucht man zum Errichten eines Balkonkraftwerks?
 ## Bauteile Liste
 - PV-Module / Solarmodule
 - Wechselrichter
+  - Hoymiles
+  - Wichtig: Auf WLAN/WiFi verzichten und stattdessen auf DTU setzen.
 - Halterung oder Aufständerung für PV-Module
 - Kabel: PV-Module <--> Wechselrichter, MC4 auf MC4
 - Kabel: Wechselrichter <--> Schuko-Steckdose, Betteri (o.ä.) auf Schuko
